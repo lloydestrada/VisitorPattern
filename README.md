@@ -45,5 +45,8 @@ public class TelcoPromo {
                                   unli.showUnliCallsTextOffer(ditto.getTelcoName(), ditto.getUnliCallText()));
   }
 }
-![3BSCS1_Estrada_VisitorPatternSW](https://github.com/lloydestrada/VisitorPattern/assets/142376663/d8327d14-cda2-4c64-87a2-05253cee3ad9)
+!
+```
+![3BSCS1_Estrada_VisitorPatternSW](https://github.com/lloydestrada/VisitorPattern/assets/142376663/d43e022d-7239-4280-9e42-cc817258e3b2)
+
 
